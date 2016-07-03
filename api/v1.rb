@@ -1,12 +1,18 @@
 # Prevent need for require_relative
 $LOAD_PATH << File.expand_path('..', __FILE__)
 require 'sinatra/base'
-require "bugsnag"
+require 'sinatra/reloader'
+require 'bugsnag'
 require './config/bugsnag'
 require 'v1/routes'
+require 'zip'
 
 module V1
   class App < Sinatra::Application
+    configure :development do
+      register Sinatra::Reloader
+    end
+
     configure do
       enable :raise_errors
       set :protection, except: [:json_csrf]
