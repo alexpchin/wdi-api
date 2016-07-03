@@ -6,6 +6,7 @@ require 'bugsnag'
 require './config/bugsnag'
 require 'v1/routes'
 require 'zip'
+require 'helpers'
 
 module V1
   class App < Sinatra::Application

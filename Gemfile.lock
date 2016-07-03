@@ -3,6 +3,7 @@ GEM
   specs:
     backports (3.6.8)
     bugsnag (4.2.1)
+    jwt (1.5.4)
     multi_json (1.12.1)
     puma (2.16.0)
     rack (1.6.4)
@@ -29,6 +30,7 @@ PLATFORMS
 
 DEPENDENCIES
   bugsnag
+  jwt
   puma (~> 2.7)
   rack (~> 1.4)
   rubyzip

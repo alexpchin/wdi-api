@@ -6,3 +6,4 @@ gem "sinatra-contrib", "~> 1.4.7"
 gem "sinatra", "~> 1.4", require: "sinatra/base"
 gem "bugsnag"
 gem 'rubyzip'
+gem "jwt"

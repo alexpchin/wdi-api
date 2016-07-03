@@ -5,8 +5,14 @@ module V1
         Regexp.new("\/\.$"),
       ]
 
+      helpers ::V1::Helpers::Guards
+
       before do
         content_type 'application/json', charset: 'utf-8'
+      end
+
+      before do 
+        require_key
       end
 
       get "/exercises" do
@@ -16,6 +22,21 @@ module V1
       get "/exercises/:name" do 
         begin
           tempfile = Tempfile.new("foo")
+          create_zip(tempfile)
+
+          send_file tempfile.path, 
+            type: 'application/zip', 
+            disposition: 'attachment', 
+            filename: "#{params[:name]}.zip"
+        ensure
+          tempfile.close
+          tempfile.unlink
+        end
+      end
+
+      private
+
+        def create_zip(tempfile)
           Zip::OutputStream.open(tempfile.path) do |io|
             paths.each do |path|
               p path
@@ -23,17 +44,7 @@ module V1
               io.print IO.read(path)
             end
           end
-
-          send_file tempfile.path, 
-            type: 'application/zip', 
-            disposition: 'attachment', 
-            filename: "#{params[:name]}.zip"
-        ensure
-          tempfile.close if tempfile
         end
-      end
-
-      private
 
         # Include dotfiles File::FNM_DOTMATCH
         def paths 
