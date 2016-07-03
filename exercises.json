@@ -1,0 +1,299 @@
+[
+  {
+    "name": "buzzer",
+    "clone_url": "https://github.com/ga-wdi-exercises/buzzer.git",
+    "description": "[TODELETE]",
+    "tags": [
+      "TODELETE"
+    ]
+  },
+  {
+    "name": "game-of-war",
+    "clone_url": "https://github.com/ga-wdi-exercises/game-of-war.git",
+    "description": "[javascript, recursion]",
+    "tags": [
+      "javascript",
+      "recursion"
+    ]
+  },
+  {
+    "name": "pixart_js",
+    "clone_url": "https://github.com/ga-wdi-exercises/pixart_js.git",
+    "description": "Use JS events and programmatically generated DOM elements to build a drawing application. [javascript, dom]",
+    "tags": [
+      "javascript",
+      "dom"
+    ]
+  },
+  {
+    "name": "slidey-mcshowington",
+    "clone_url": "https://github.com/ga-wdi-exercises/slidey-mcshowington.git",
+    "description": "[ajax, api, javascript]",
+    "tags": [
+      "ajax",
+      "api",
+      "javascript"
+    ]
+  },
+  {
+    "name": "final-countdown",
+    "clone_url": "https://github.com/ga-wdi-exercises/final-countdown.git",
+    "description": "[javascript, timer, dom]",
+    "tags": [
+      "javascript",
+      "timer",
+      "dom"
+    ]
+  },
+  {
+    "name": "stock-tracker",
+    "clone_url": "https://github.com/ga-wdi-exercises/stock-tracker.git",
+    "description": "[ajax, api, javascript, rails]",
+    "tags": [
+      "ajax",
+      "api",
+      "javascript",
+      "rails"
+    ]
+  },
+  {
+    "name": "trillo",
+    "clone_url": "https://github.com/ga-wdi-exercises/trillo.git",
+    "description": "An AJAX powered trello clone, on rails! [ajax, javascript, oop, rails, crud]",
+    "tags": [
+      "ajax",
+      "javascript",
+      "oop",
+      "rails",
+      "crud"
+    ]
+  },
+  {
+    "name": "infinite-giphy",
+    "clone_url": "https://github.com/ga-wdi-exercises/infinite-giphy.git",
+    "description": "[ajax, api, javascript]",
+    "tags": [
+      "ajax",
+      "api",
+      "javascript"
+    ]
+  },
+  {
+    "name": "spotify-me",
+    "clone_url": "https://github.com/ga-wdi-exercises/spotify-me.git",
+    "description": "[javascript, ajax, api]",
+    "tags": [
+      "javascript",
+      "ajax",
+      "api"
+    ]
+  },
+  {
+    "name": "movie-browser",
+    "clone_url": "https://github.com/ga-wdi-exercises/movie-browser.git",
+    "description": "[javascript, ajax, api]",
+    "tags": [
+      "javascript",
+      "ajax",
+      "api"
+    ]
+  },
+  {
+    "name": "yo-yo-da",
+    "clone_url": "https://github.com/ga-wdi-exercises/yo-yo-da.git",
+    "description": "[javascript, ajax, api]",
+    "tags": [
+      "javascript",
+      "ajax",
+      "api"
+    ]
+  },
+  {
+    "name": "grumblr",
+    "clone_url": "https://github.com/ga-wdi-exercises/grumblr.git",
+    "description": "Tumblr clone. [backbone, rails]",
+    "tags": [
+      "backbone",
+      "rails"
+    ]
+  },
+  {
+    "name": "instructor_code_challenge",
+    "clone_url": "https://github.com/ga-wdi-exercises/instructor_code_challenge.git",
+    "description": "[ruby, rails, node]",
+    "tags": [
+      "ruby",
+      "rails",
+      "node"
+    ]
+  },
+  {
+    "name": "yum",
+    "clone_url": "https://github.com/ga-wdi-exercises/yum.git",
+    "description": "We like Milk-n-Cookies!  Where can we find some? [mongodb, javascript, node, express]",
+    "tags": [
+      "mongodb",
+      "javascript",
+      "node",
+      "express"
+    ]
+  },
+  {
+    "name": "socket.io-chat",
+    "clone_url": "https://github.com/ga-wdi-exercises/socket.io-chat.git",
+    "description": "[websockets, node, handlebars]",
+    "tags": [
+      "websockets",
+      "node",
+      "handlebars"
+    ]
+  },
+  {
+    "name": "websocket-arcade",
+    "clone_url": "https://github.com/ga-wdi-exercises/websocket-arcade.git",
+    "description": "[websockets, mongodb, node, express, backbone]",
+    "tags": [
+      "websockets",
+      "mongodb",
+      "node",
+      "express",
+      "backbone"
+    ]
+  },
+  {
+    "name": "everything_conf",
+    "clone_url": "https://github.com/ga-wdi-exercises/everything_conf.git",
+    "description": "Students teach anything for 15 minutes each. [presentation]",
+    "tags": [
+      "presentation"
+    ]
+  },
+  {
+    "name": "ruby_vars_quiz",
+    "clone_url": "https://github.com/ga-wdi-exercises/ruby_vars_quiz.git",
+    "description": "Variables quiz. [ruby, quick, quiz]",
+    "tags": [
+      "ruby",
+      "quick",
+      "quiz"
+    ]
+  },
+  {
+    "name": "dc_directory_tree",
+    "clone_url": "https://github.com/ga-wdi-exercises/dc_directory_tree.git",
+    "description": "Use both absolute and relative paths to traverse a directory tree. [quick, html, paths, web]",
+    "tags": [
+      "quick",
+      "html",
+      "paths",
+      "web"
+    ]
+  },
+  {
+    "name": "html_tag_matching",
+    "clone_url": "https://github.com/ga-wdi-exercises/html_tag_matching.git",
+    "description": "[quick, html, characters]",
+    "tags": [
+      "quick",
+      "html",
+      "characters"
+    ]
+  },
+  {
+    "name": "landlord",
+    "clone_url": "https://github.com/ga-wdi-exercises/landlord.git",
+    "description": "[oop, ruby, basics]",
+    "tags": [
+      "oop",
+      "ruby",
+      "basics"
+    ]
+  },
+  {
+    "name": "ruby_methods_practice",
+    "clone_url": "https://github.com/ga-wdi-exercises/ruby_methods_practice.git",
+    "description": "[ruby, basics, methods, quick]",
+    "tags": [
+      "ruby",
+      "basics",
+      "methods",
+      "quick"
+    ]
+  },
+  {
+    "name": "ruby_refactor_me",
+    "clone_url": "https://github.com/ga-wdi-exercises/ruby_refactor_me.git",
+    "description": "[ruby, refactoring, quick, basics]",
+    "tags": [
+      "ruby",
+      "refactoring",
+      "quick",
+      "basics"
+    ]
+  },
+  {
+    "name": "murican_css",
+    "clone_url": "https://github.com/ga-wdi-exercises/murican_css.git",
+    "description": "[html, css, quick, basics]",
+    "tags": [
+      "html",
+      "css",
+      "quick",
+      "basics"
+    ]
+  },
+  {
+    "name": "dew_about_me_css",
+    "clone_url": "https://github.com/ga-wdi-exercises/dew_about_me_css.git",
+    "description": "[css, needs-solution]",
+    "tags": [
+      "css",
+      "needs-solution"
+    ]
+  },
+  {
+    "name": "project1",
+    "clone_url": "https://github.com/ga-wdi-exercises/project1.git",
+    "description": "[project] GA- Project 1",
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "name": "wendy_bite",
+    "clone_url": "https://github.com/ga-wdi-exercises/wendy_bite.git",
+    "description": "[css, html]",
+    "tags": [
+      "css",
+      "html"
+    ]
+  },
+  {
+    "name": "fridge_tracker",
+    "clone_url": "https://github.com/ga-wdi-exercises/fridge_tracker.git",
+    "description": "[activerecord, ruby, sql]",
+    "tags": [
+      "activerecord",
+      "ruby",
+      "sql"
+    ]
+  },
+  {
+    "name": "project2",
+    "clone_url": "https://github.com/ga-wdi-exercises/project2.git",
+    "description": "[project]",
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "name": "moma_db",
+    "clone_url": "https://github.com/ga-wdi-exercises/moma_db.git",
+    "description": "[db, activerecord, ruby]",
+    "tags": [
+      "db",
+      "activerecord",
+      "ruby"
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+[submodule "exercises/buzzer"]
+	path = exercises/buzzer
+	url = https://github.com/ga-wdi-exercises/buzzer.git
+[submodule "exercises/game-of-war"]
+	path = exercises/game-of-war
+	url = https://github.com/ga-wdi-exercises/game-of-war.git
+[submodule "exercises/pixart_js"]
+	path = exercises/pixart_js
+	url = https://github.com/ga-wdi-exercises/pixart_js.git
+[submodule "exercises/slidey-mcshowington"]
+	path = exercises/slidey-mcshowington
+	url = https://github.com/ga-wdi-exercises/slidey-mcshowington.git
+[submodule "exercises/final-countdown"]
+	path = exercises/final-countdown
+	url = https://github.com/ga-wdi-exercises/final-countdown.git
+[submodule "exercises/stock-tracker"]
+	path = exercises/stock-tracker
+	url = https://github.com/ga-wdi-exercises/stock-tracker.git
+[submodule "exercises/trillo"]
+	path = exercises/trillo
+	url = https://github.com/ga-wdi-exercises/trillo.git
+[submodule "exercises/infinite-giphy"]
+	path = exercises/infinite-giphy
+	url = https://github.com/ga-wdi-exercises/infinite-giphy.git
+[submodule "exercises/spotify-me"]
+	path = exercises/spotify-me
+	url = https://github.com/ga-wdi-exercises/spotify-me.git
+[submodule "exercises/movie-browser"]
+	path = exercises/movie-browser
+	url = https://github.com/ga-wdi-exercises/movie-browser.git
+[submodule "exercises/yo-yo-da"]
+	path = exercises/yo-yo-da
+	url = https://github.com/ga-wdi-exercises/yo-yo-da.git
+[submodule "exercises/grumblr"]
+	path = exercises/grumblr
+	url = https://github.com/ga-wdi-exercises/grumblr.git
+[submodule "exercises/instructor_code_challenge"]
+	path = exercises/instructor_code_challenge
+	url = https://github.com/ga-wdi-exercises/instructor_code_challenge.git
+[submodule "exercises/yum"]
+	path = exercises/yum
+	url = https://github.com/ga-wdi-exercises/yum.git
+[submodule "exercises/socket.io-chat"]
+	path = exercises/socket.io-chat
+	url = https://github.com/ga-wdi-exercises/socket.io-chat.git
+[submodule "exercises/websocket-arcade"]
+	path = exercises/websocket-arcade
+	url = https://github.com/ga-wdi-exercises/websocket-arcade.git
+[submodule "exercises/everything_conf"]
+	path = exercises/everything_conf
+	url = https://github.com/ga-wdi-exercises/everything_conf.git
+[submodule "exercises/ruby_vars_quiz"]
+	path = exercises/ruby_vars_quiz
+	url = https://github.com/ga-wdi-exercises/ruby_vars_quiz.git
+[submodule "exercises/dc_directory_tree"]
+	path = exercises/dc_directory_tree
+	url = https://github.com/ga-wdi-exercises/dc_directory_tree.git
+[submodule "exercises/html_tag_matching"]
+	path = exercises/html_tag_matching
+	url = https://github.com/ga-wdi-exercises/html_tag_matching.git
+[submodule "exercises/landlord"]
+	path = exercises/landlord
+	url = https://github.com/ga-wdi-exercises/landlord.git
+[submodule "exercises/ruby_methods_practice"]
+	path = exercises/ruby_methods_practice
+	url = https://github.com/ga-wdi-exercises/ruby_methods_practice.git
+[submodule "exercises/ruby_refactor_me"]
+	path = exercises/ruby_refactor_me
+	url = https://github.com/ga-wdi-exercises/ruby_refactor_me.git
+[submodule "exercises/murican_css"]
+	path = exercises/murican_css
+	url = https://github.com/ga-wdi-exercises/murican_css.git
+[submodule "exercises/dew_about_me_css"]
+	path = exercises/dew_about_me_css
+	url = https://github.com/ga-wdi-exercises/dew_about_me_css.git
+[submodule "exercises/project1"]
+	path = exercises/project1
+	url = https://github.com/ga-wdi-exercises/project1.git
+[submodule "exercises/wendy_bite"]
+	path = exercises/wendy_bite
+	url = https://github.com/ga-wdi-exercises/wendy_bite.git
+[submodule "exercises/fridge_tracker"]
+	path = exercises/fridge_tracker
+	url = https://github.com/ga-wdi-exercises/fridge_tracker.git
+[submodule "exercises/project2"]
+	path = exercises/project2
+	url = https://github.com/ga-wdi-exercises/project2.git
+[submodule "exercises/moma_db"]
+	path = exercises/moma_db
+	url = https://github.com/ga-wdi-exercises/moma_db.git
+[submodule "lessons/css-intro"]
+	path = lessons/css-intro
+	url = https://github.com/ga-wdi-lessons/css-intro.git
+[submodule "lessons/git-intro"]
+	path = lessons/git-intro
+	url = https://github.com/ga-wdi-lessons/git-intro.git
+[submodule "lessons/git-ssh"]
+	path = lessons/git-ssh
+	url = https://github.com/ga-wdi-lessons/git-ssh.git
+[submodule "lessons/html-intro"]
+	path = lessons/html-intro
+	url = https://github.com/ga-wdi-lessons/html-intro.git
+[submodule "lessons/js-dom"]
+	path = lessons/js-dom
+	url = https://github.com/ga-wdi-lessons/js-dom.git
+[submodule "lessons/js-debugging"]
+	path = lessons/js-debugging
+	url = https://github.com/ga-wdi-lessons/js-debugging.git
+[submodule "lessons/js-objects-functions"]
+	path = lessons/js-objects-functions
+	url = https://github.com/ga-wdi-lessons/js-objects-functions.git
+[submodule "lessons/css-intermediate"]
+	path = lessons/css-intermediate
+	url = https://github.com/ga-wdi-lessons/css-intermediate.git
+[submodule "lessons/js-events-callbacks"]
+	path = lessons/js-events-callbacks
+	url = https://github.com/ga-wdi-lessons/js-events-callbacks.git
+[submodule "lessons/git-branching"]
+	path = lessons/git-branching
+	url = https://github.com/ga-wdi-lessons/git-branching.git
+[submodule "lessons/js-jquery"]
+	path = lessons/js-jquery
+	url = https://github.com/ga-wdi-lessons/js-jquery.git
+[submodule "lessons/agile"]
+	path = lessons/agile
+	url = https://github.com/ga-wdi-lessons/agile.git
+[submodule "lessons/js-scope"]
+	path = lessons/js-scope
+	url = https://github.com/ga-wdi-lessons/js-scope.git
+[submodule "lessons/activerecord-intro"]
+	path = lessons/activerecord-intro
+	url = https://github.com/ga-wdi-lessons/activerecord-intro.git
+[submodule "lessons/sql-intro"]
+	path = lessons/sql-intro
+	url = https://github.com/ga-wdi-lessons/sql-intro.git
+[submodule "lessons/sql-erd"]
+	path = lessons/sql-erd
+	url = https://github.com/ga-wdi-lessons/sql-erd.git
+[submodule "lessons/mvc-intro"]
+	path = lessons/mvc-intro
+	url = https://github.com/ga-wdi-lessons/mvc-intro.git
+[submodule "lessons/ruby-oop"]
+	path = lessons/ruby-oop
+	url = https://github.com/ga-wdi-lessons/ruby-oop.git
+[submodule "lessons/ruby-intro"]
+	path = lessons/ruby-intro
+	url = https://github.com/ga-wdi-lessons/ruby-intro.git
+[submodule "lessons/ruby-enumerables"]
+	path = lessons/ruby-enumerables
+	url = https://github.com/ga-wdi-lessons/ruby-enumerables.git
+[submodule "lessons/sinatra-and-activerecord"]
+	path = lessons/sinatra-and-activerecord
+	url = https://github.com/ga-wdi-lessons/sinatra-and-activerecord.git
+[submodule "lessons/sinatra-rest"]
+	path = lessons/sinatra-rest
+	url = https://github.com/ga-wdi-lessons/sinatra-rest.git
+[submodule "lessons/sinatra-troubleshooting"]
+	path = lessons/sinatra-troubleshooting
+	url = https://github.com/ga-wdi-lessons/sinatra-troubleshooting.git
+[submodule "lessons/porting-sinatra-to-rails"]
+	path = lessons/porting-sinatra-to-rails
+	url = https://github.com/ga-wdi-lessons/porting-sinatra-to-rails.git
+[submodule "lessons/rails-deployment"]
+	path = lessons/rails-deployment
+	url = https://github.com/ga-wdi-lessons/rails-deployment.git
+[submodule "lessons/rails-errors-validations-flash"]
+	path = lessons/rails-errors-validations-flash
+	url = https://github.com/ga-wdi-lessons/rails-errors-validations-flash.git
+[submodule "lessons/rails-helpers"]
+	path = lessons/rails-helpers
+	url = https://github.com/ga-wdi-lessons/rails-helpers.git
+[submodule "lessons/rails-many-to-many-mini-lesson"]
+	path = lessons/rails-many-to-many-mini-lesson
+	url = https://github.com/ga-wdi-lessons/rails-many-to-many-mini-lesson.git
